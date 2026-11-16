@@ -1,0 +1,1 @@
+{ "name": "usage-meter", "version": "0.1.0", "description": "5時間枠・週枠・この会話の使用率をバーで表示するメーター", "types": "./types/index.d.ts" }
